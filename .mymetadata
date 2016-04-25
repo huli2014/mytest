@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="ftptest"
+  id="myeclipse.1458027645965"
+  context-root="/ftptest"
+  j2ee-spec="6.0"
+  archive="ftptest.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
